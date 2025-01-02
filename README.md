@@ -98,7 +98,7 @@ The project uses four datasets:
 ---
 
 ## Key Links
-- **Tableau Public Dashboard**: [View Dashboard](#) *(https://public.tableau.com/views/SupplyChainAnalysis_17356428410530/RegionalAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
+- **Tableau Public Dashboard**: [View Dashboard](#) *([https://public.tableau.com/views/SupplyChainAnalysis_17356428410530/RegionalAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])*
 
 ---
 
